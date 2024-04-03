@@ -6,7 +6,7 @@ making shots from 5 fixed positions.
 
 At each rack there is a rack of 5 basketballs. Out of the 5 balls,
 the first 4 are regular balls worth 1 point each. The 5th ball,
-often nicknamed the "money ball", iw worth 2 points.
+often nicknamed the "money ball", is worth 2 points.
 
 Of those 5 positions, the player can choose a position to have a rack 
 consisting only of money balls which are all worth 2 points. This
