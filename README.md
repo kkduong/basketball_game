@@ -18,7 +18,7 @@ two players have the same score then it is a tie game.
 
 -------------------------------------------------------------------------
 
-NOTE: this program was compiled using the gcc compiler (the makefile takes this into account). If you would like to compile with a different
+NOTE: this program was compiled using the g++ compiler. If you would like to compile with a different
 compiler, you would need to do the compilation yourself with your knowledge.
 
 Instructions:
